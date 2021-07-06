@@ -1,0 +1,4 @@
+outs:
+- md5: a959149d874608150f5f99668735b2ac
+  size: 12428
+  path: LoanApproval_newdata.csv
